@@ -1,0 +1,3 @@
+The 'Gold Standard' folder contains the Gold Standard of both Music and Computer Science Corpora. 
+All extracted terms are labeled to form a domain gold standard (GS). i.e. a term that refers to a CC is labeled by this CC,
+otherwise labeled by “Others”.
