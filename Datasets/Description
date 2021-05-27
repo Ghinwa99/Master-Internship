@@ -1,0 +1,4 @@
+The 'Datasets' folder contains two domain corpora: Computer Science and Music Corpora. 
+There are two kinds of corpus: clean and noisy corpus. The clean corpus consists only of the relevant terms that are related to the domain, 
+while the noisy corpus provides all the extracted terms from the documents (relevant + irrelevant terms).
+The whole information regarding these corpora are found in the ReadME.txt file of the corpus folder.
