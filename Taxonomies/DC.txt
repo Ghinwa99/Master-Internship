@@ -1,0 +1,7 @@
+distributed computing (Q180634) •55 ×31 ↑↑
+├──distributed revision control system (Q1186723) •13 ×14 ↑↑
+├──volunteer computing (Q2367171) •13 ×37 ↑
+├──distributed social network (Q5283178) •8 ×16 ↑
+├──edge computing (Q5337692) •13
+├──distributed computing software (Q9443082) •1 ×2
+└──BOINC Project (Q55361769) ×45 ↑

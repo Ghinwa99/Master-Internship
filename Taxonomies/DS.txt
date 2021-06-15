@@ -1,0 +1,805 @@
+data structure (Q175263) •72 ×70 ↑
+├──list (Q27948) •27 ×52 ↑↑
+│  ├──selection (Q753651) •5
+│  ├──difference list (Q1224342) •2
+│  ├──doubly connected edge list (Q1251544) •4
+│  ├──Unicode block (Q3512806) •14 ×306
+│  │  └──private use area (Q11152836) •5 ×2
+│  ├──free list (Q5500256) •4
+│  ├──linked list (Q7003418) •41 ×10 ↑
+│  │  ├──std::list (Q3833440) •2
+│  │  ├──unrolled linked list (Q4388313) •4
+│  │  └──Survivor registry (Q7647325) •2
+│  ├──self-organizing list (Q7448156) •5
+│  ├──List of Value (Q10314988) •1
+│  ├──Unicode plane (Q10853148) •14 ×3
+│  │  └──supplementary plane (Q11639247) •1 ×4
+│  │     └──Unicode characters from 40000 to DFFFF codepoints (Q3513302) •1
+│  ├──??? (Q12562332) •1
+│  ├──emoji regional indicator sequence (Q28840786) •3 ↑↑↑
+│  ├──information list (Q80096233) ×2219 ↑
+│  │  ├──lists of integrals (Q423189) •44 ×8
+│  │  ├──candidate list (Q96602509) ×13
+│  │  │  ├──candidate list of a Dutch election (Q18511695) ×186 ↑
+│  │  │  └──candidate list of a Belgian election (Q23660930) ×43
+│  │  │     ├──??? (Q23891036) •1
+│  │  │     ├──??? (Q23891037) •1
+│  │  │     ├──??? (Q23891038) •1
+│  │  │     ├──??? (Q23891040) •1
+│  │  │     ├──??? (Q23891041) •1
+│  │  │     ├──??? (Q23891042) •1
+│  │  │     ├──??? (Q23891043) •1
+│  │  │     ├──??? (Q23891045) •1
+│  │  │     ├──??? (Q23891048) •1
+│  │  │     ├──??? (Q23891049) •1
+│  │  │     ├──??? (Q23891050) •1
+│  │  │     ├──??? (Q23891051) •1
+│  │  │     ├──??? (Q23891052) •1
+│  │  │     ├──??? (Q23891053) •1
+│  │  │     ├──??? (Q23891054) •1
+│  │  │     ├──??? (Q23891055) •1
+│  │  │     ├──??? (Q23891056) •1
+│  │  │     └──??? (Q23891075) •1
+│  │  └──list of Pokémon species (Q106036966) ×75
+│  │     └──list of Pokémon in a game (Q99973598) ×52
+│  └──OpenStreetMap relation (Q100320716)
+├──associative array (Q80585) •25
+│  ├──hash table (Q207440) •41 ×2
+│  │  └──distributed hash table (Q863506) •23
+│  └──Hash array mapped trie (Q17091412) •1 ↑
+├──stack (Q177929) •55
+│  └──call stack (Q759899) •23 ↑
+├──array data structure (Q186152) •50 ×2 ↑
+│  ├──matrix (Q44337) •94 ×3 ↑
+│  │  ├──random matrix (Q176604) •14 ↑
+│  │  │  └──Euclidean random matrix (Q5406123) •1
+│  │  ├──transpose matrix (Q223683) •38
+│  │  ├──generalized inverse (Q370634) •13
+│  │  │  ├──Drazin inverse (Q4521948) •2
+│  │  │  ├──Block matrix pseudoinverse (Q4927198) •1 ↑
+│  │  │  ├──inverse matrix (Q17123743) •17 ↑
+│  │  │  └──Moore–Penrose inverse (Q43219517) •7
+│  │  ├──Jacobian matrix (Q506041) •30
+│  │  ├──density matrix (Q831774) •26 ↑
+│  │  ├──Block matrix (Q884772) •23
+│  │  │  ├──augmented matrix (Q2750301) •18
+│  │  │  ├──block diagonal matrix (Q2933833) •1 ↑↑
+│  │  │  │  ├──diagonal matrix (Q332791) •35 ↑↑↑↑↑↑↑
+│  │  │  │  │  ├──zero matrix (Q338028) •31 ×1 ↑↑↑↑↑
+│  │  │  │  │  ├──Degree matrix (Q3085391) •11
+│  │  │  │  │  ├──signature matrix (Q4921154) •4 ↑↑
+│  │  │  │  │  │  └──identity matrix (Q193794) •46 ↑↑↑↑↑↑↑
+│  │  │  │  │  └──scalar matrix (Q6586607) •6 ↑
+│  │  │  │  │     ╘══identity matrix (Q193794) •46 ↑↑↑↑↑↑↑ …
+│  │  │  │  └──Jordan matrix (Q3738073) •9
+│  │  │  ├──supermatrix (Q3977978) •3
+│  │  │  ╞══Block matrix pseudoinverse (Q4927198) •1 ↑ …
+│  │  │  └──block tridiagonal matrix (Q77967267) ↑
+│  │  │     ├──tridiagonal matrix (Q1755277) •18 ↑
+│  │  │     │  ├──bidiagonal matrix (Q856952) •7 ↑
+│  │  │     │  │  ╘══diagonal matrix (Q332791) •35 ↑↑↑↑↑↑↑ …
+│  │  │     │  ├──Wilkinson matrix (Q8002551) •3 ↑
+│  │  │     │  └──??? (Q15851502) •1
+│  │  │     ╘══block diagonal matrix (Q2933833) •1 ↑↑ …
+│  │  ├──sparse matrix (Q1050404) •24
+│  │  │  ├──sparse vector (Q3495176) •3 ↑
+│  │  │  └──Skyline matrix (Q7537931) •3
+│  │  ├──kernel (Q1395012) •7
+│  │  ├──??? (Q1466923) •1
+│  │  ├──transformation matrix (Q1482183) •18
+│  │  │  └──matrix of change of basis (Q77971078) •2
+│  │  ├──generator matrix (Q1502046) •7
+│  │  ├──risk matrix (Q1535147) •5 ↑
+│  │  ├──co-occurrence matrix (Q1543908) •3
+│  │  ├──Fock matrix (Q2526030) •7
+│  │  ├──polynomial matrix (Q2562273) •8
+│  │  │  └──unimodular polynomial matrix (Q7885227) •2 ↑
+│  │  ├──alternant matrix (Q2620519) •5
+│  │  │  └──Vandermonde matrix (Q579544) •24 ↑
+│  │  ├──confusion matrix (Q2709591) •14
+│  │  ├──square matrix (Q2739329) •34
+│  │  │  ├──stochastic matrix (Q176583) •21 ↑
+│  │  │  │  ├──doubly stochastic matrix (Q1243340) •9
+│  │  │  │  │  ├──orthostochastic matrix (Q7104936) •2
+│  │  │  │  │  │  ╘══identity matrix (Q193794) •46 ↑↑↑↑↑↑↑ …
+│  │  │  │  │  └──unistochastic matrix (Q7887041) •2
+│  │  │  │  │     ╘══identity matrix (Q193794) •46 ↑↑↑↑↑↑↑ …
+│  │  │  │  ├──De Casteljau matrix (Q3299249) •1 ↑
+│  │  │  │  └──Google matrix (Q5583904) •4
+│  │  │  ├──adjugate matrix (Q225107) •23
+│  │  │  ├──invertible matrix (Q242188) •34
+│  │  │  │  ├──orthogonal matrix (Q333871) •29 ↑↑↑
+│  │  │  │  │  ├──permutation matrix (Q851512) •27 ↑↑↑↑↑↑
+│  │  │  │  │  │  ╞══identity matrix (Q193794) •46 ↑↑↑↑↑↑↑ …
+│  │  │  │  │  │  ├──exchange matrix (Q3750339) •8 ↑↑
+│  │  │  │  │  │  └──commutation matrix (Q5155088) •2
+│  │  │  │  │  ├──rotation matrix (Q1256564) •21 ↑
+│  │  │  │  │  │  ╘══permutation matrix (Q851512) •27 ↑↑↑↑↑↑ …
+│  │  │  │  │  └──Householder matrix (Q43217907) •3 ↑↑
+│  │  │  │  ├──unitary matrix (Q727103) •30 ↑↑
+│  │  │  │  │  ├──Cabibbo–Kobayashi–Maskawa matrix (Q253728) •17
+│  │  │  │  │  ├──Pauli matrices (Q336233) •34 ×3 ↑↑↑
+│  │  │  │  │  └──Pontecorvo–Maki–Nakagawa–Sakata matrix (Q1045351) •11
+│  │  │  │  ├──involutory matrix (Q1052516) •10
+│  │  │  │  │  ╞══signature matrix (Q4921154) •4 ↑↑ …
+│  │  │  │  │  ╘══Householder matrix (Q43217907) •3 ↑↑ …
+│  │  │  │  ├──unimodular matrix (Q1367055) •12 ↑
+│  │  │  │  │  ╞══permutation matrix (Q851512) •27 ↑↑↑↑↑↑ …
+│  │  │  │  │  ├──complex Hadamard matrix (Q5156556) •2 ↑
+│  │  │  │  │  │  └──Butson-type Hadamard matrix (Q5002751) •1
+│  │  │  │  │  │     └──Hadamard matrix (Q1422682) •20 ×1 ↑
+│  │  │  │  │  │        ├──Walsh matrix (Q3851929) •4
+│  │  │  │  │  │        └──regular Hadamard matrix (Q7309581) •2
+│  │  │  │  │  └──Pascal matrix (Q7141739) •6
+│  │  │  │  ├──Frobenius matrix (Q1469444) •8 ↑
+│  │  │  │  ├──symplectic matrix (Q2705070) •11 ↑
+│  │  │  │  ├──modal matrix (Q6888018) •2
+│  │  │  │  ╞══unimodular polynomial matrix (Q7885227) •2 ↑ …
+│  │  │  │  ╞══inverse matrix (Q17123743) •17 ↑ …
+│  │  │  │  ├──inverse-positive matrix (Q22666682) ↑
+│  │  │  │  ├──weakly chained diagonally dominant matrix (Q28455755) •1 ↑
+│  │  │  │  │  └──strict diagonally dominant matrix (Q27212903) •3 ↑
+│  │  │  │  └──monotone matrix (Q28455762) •1 ↑
+│  │  │  │     └──M-matrix (Q3064355) •4 ↑↑
+│  │  │  │        ├──Laplacian matrix (Q772067) •17 ↑↑
+│  │  │  │        └──Stieltjes matrix (Q7616382) •3
+│  │  │  ├──symmetric matrix (Q339011) •38 ↑
+│  │  │  │  ╞══diagonal matrix (Q332791) •35 ↑↑↑↑↑↑↑ …
+│  │  │  │  ├──Hessian matrix (Q620495) •28
+│  │  │  │  ╞══Laplacian matrix (Q772067) •17 ↑↑ …
+│  │  │  │  ├──distance matrix (Q901698) •10
+│  │  │  │  │  └──Euclidean distance matrix (Q5406122) •3 ↑↑
+│  │  │  │  ├──Hankel matrix (Q1575637) •16 ↑
+│  │  │  │  │  ├──Hilbert matrix (Q612991) •17 ↑↑↑
+│  │  │  │  │  └──Filbert matrix (Q3851923) •2 ↑↑
+│  │  │  │  ├──correlation matrix (Q3299259) •3 ↑
+│  │  │  │  ├──bisymmetric matrix (Q3751716) •8 ↑↑
+│  │  │  │  │  ╞══exchange matrix (Q3750339) •8 ↑↑ …
+│  │  │  │  │  ╘══scalar matrix (Q6586607) •6 ↑ …
+│  │  │  │  ├──Bézout matrix (Q5005076) •2
+│  │  │  │  ├──centering matrix (Q5060045) •2 ↑
+│  │  │  │  ╞══Euclidean distance matrix (Q5406122) •3 ↑↑ …
+│  │  │  │  ├──Jacket matrix (Q6116137) •2
+│  │  │  │  ├──Lehmer matrix (Q6518931) •3
+│  │  │  │  ├──Monge array (Q6899477) •2
+│  │  │  │  │  └──Supnick matrix (Q17103829) •2
+│  │  │  │  ├──Seidel adjacency matrix (Q7446630) •2
+│  │  │  │  ╞══Wilkinson matrix (Q8002551) •3 ↑ …
+│  │  │  │  ├──real symmetric matrix (Q10949536) •2 ↑↑
+│  │  │  │  ├──Moment matrix (Q16259339) •2
+│  │  │  │  ├──Coxeter matrix (Q39286912)
+│  │  │  │  ╞══Householder matrix (Q43217907) •3 ↑↑ …
+│  │  │  │  ├──indefinite matrix (Q77601218)
+│  │  │  │  └──semidefinite matrix (Q77601306) ↑
+│  │  │  │     ├──copositive matrix (Q2655506) •3 ↑
+│  │  │  │     │  ╞══Laplacian matrix (Q772067) •17 ↑↑ …
+│  │  │  │     │  ├──positive-definite matrix (Q1052034) •20 ↑
+│  │  │  │     │  │  ├──Gramian matrix (Q1409400) •17 ↑
+│  │  │  │     │  │  │  └──cross Gramian (Q17008156) •3
+│  │  │  │     │  │  ╘══correlation matrix (Q3299259) •3 ↑ …
+│  │  │  │     │  ├──covariance matrix (Q1134404) •23
+│  │  │  │     │  ├──matrix of ones (Q2916484) •10 ↑↑↑
+│  │  │  │     │  ├──G-perceptron matrix (Q4039090) •1
+│  │  │  │     │  ├──scatter matrix (Q7430596) •1
+│  │  │  │     │  └──doubly non-negative matrix (Q22582534) ↑
+│  │  │  │     │     ╘══permutation matrix (Q851512) •27 ↑↑↑↑↑↑ …
+│  │  │  │     ├──definite matrix (Q77601250) •5
+│  │  │  │     │  ╞══positive-definite matrix (Q1052034) •20 ↑ …
+│  │  │  │     │  └──negative definite matrix (Q47450814) •1 ↑
+│  │  │  │     └──negative-semidefinite matrix (Q77601480)
+│  │  │  │        ╘══negative definite matrix (Q47450814) •1 ↑ …
+│  │  │  ├──Hessenberg matrix (Q428813) •19
+│  │  │  │  └──triangular matrix (Q506265) •35 ↑
+│  │  │  │     ╞══bidiagonal matrix (Q856952) •7 ↑ …
+│  │  │  │     ╞══De Casteljau matrix (Q3299249) •1 ↑ …
+│  │  │  │     ├──upper triangular matrix (Q77968835)
+│  │  │  │     │  ╞══diagonal matrix (Q332791) •35 ↑↑↑↑↑↑↑ …
+│  │  │  │     │  └──strictly upper triangular matrix (Q77969871) ↑
+│  │  │  │     ├──lower triangular matrix (Q77968837)
+│  │  │  │     │  ╞══diagonal matrix (Q332791) •35 ↑↑↑↑↑↑↑ …
+│  │  │  │     │  ╞══Frobenius matrix (Q1469444) •8 ↑ …
+│  │  │  │     │  └──strictly lower triangular matrix (Q77969876) ↑
+│  │  │  │     ├──unitriangular matrix (Q77969295)
+│  │  │  │     └──strictly triangular matrix (Q77969452)
+│  │  │  │        ╞══strictly upper triangular matrix (Q77969871) ↑ …
+│  │  │  │        ╘══strictly lower triangular matrix (Q77969876) ↑ …
+│  │  │  ├──skew-symmetric matrix (Q526790) •28 ↑
+│  │  │  │  ╞══zero matrix (Q338028) •31 ×1 ↑↑↑↑↑ …
+│  │  │  │  ├──Plücker matrix (Q1383744) •2
+│  │  │  │  └──??? (Q20181655) •1
+│  │  │  ╞══Vandermonde matrix (Q579544) •24 ↑ …
+│  │  │  ├──S-matrix (Q581505) •13
+│  │  │  │  └──Completely-S matrix (Q5156522) •1
+│  │  │  ├──elementary matrix (Q609566) •25
+│  │  │  │  └──shear matrix (Q7492183) •6
+│  │  │  ╞══Hilbert matrix (Q612991) •17 ↑↑↑ …
+│  │  │  ├──nilpotent matrix (Q650670) •21 ↑↑↑
+│  │  │  │  └──shift matrix (Q7496248) •5 ↑
+│  │  │  ├──adjacency matrix (Q727035) •31
+│  │  │  ├──band matrix (Q806350) •12
+│  │  │  │  └──heptadiagonal matrix (Q30836236) •2
+│  │  │  │     └──pentadiagonal matrix (Q7164949) •3
+│  │  │  │        ╘══tridiagonal matrix (Q1755277) •18 ↑ …
+│  │  │  ├──Companion matrix (Q814361) •11
+│  │  │  ├──Leslie matrix (Q943800) •5
+│  │  │  ├──diagonally dominant matrix (Q952222) •14
+│  │  │  │  ╞══strict diagonally dominant matrix (Q27212903) •3 ↑ …
+│  │  │  │  ╘══weakly chained diagonally dominant matrix (Q28455755) •1 ↑ …
+│  │  │  ├──square root of a matrix (Q964330) •13 ↑
+│  │  │  │  └──square root of a 2 by 2 matrix (Q7582079) •2 ↑
+│  │  │  ├──Conference matrix (Q1125095) •6 ↑
+│  │  │  ├──Sylvester matrix (Q1482452) •15
+│  │  │  ╞══Hankel matrix (Q1575637) •16 ↑ …
+│  │  │  ├──diagonalizable matrix (Q1767080) •18
+│  │  │  │  ╞══diagonal matrix (Q332791) •35 ↑↑↑↑↑↑↑ …
+│  │  │  │  ╞══orthogonal matrix (Q333871) •29 ↑↑↑ …
+│  │  │  │  ├──skew-Hermitian matrix (Q2268788) •15 ↑
+│  │  │  │  └──unitarily diagonalizable matrix (Q50255844) ↑
+│  │  │  │     └──normal matrix (Q6852339) •25 ↑
+│  │  │  │        ╞══unitary matrix (Q727103) •30 ↑↑ …
+│  │  │  │        └──self-adjoint matrix (Q15847164) •2
+│  │  │  │           ├──hermitian matrix (Q652941) •32 ×1
+│  │  │  │           │  ╞══Pauli matrices (Q336233) •34 ×3 ↑↑↑ …
+│  │  │  │           │  ╞══Gramian matrix (Q1409400) •17 ↑ …
+│  │  │  │           │  ╞══copositive matrix (Q2655506) •3 ↑ …
+│  │  │  │           │  └──autocorrelation matrix (Q17622025) •2 ↑
+│  │  │  │           ╘══real symmetric matrix (Q10949536) •2 ↑↑ …
+│  │  │  ├──Schur complement (Q1778169) •13
+│  │  │  ├──singular matrix (Q1970975) •6
+│  │  │  │  ╞══nilpotent matrix (Q650670) •21 ↑↑↑ …
+│  │  │  │  └──fundamental matrix (Q39351938) •3 ↑
+│  │  │  ├──Cartan matrix (Q2004951) •11 ↑
+│  │  │  ├──unipotent matrix (Q2494911) •5 ↑
+│  │  │  ├──centrosymmetric matrix (Q2598955) •10
+│  │  │  │  ╘══bisymmetric matrix (Q3751716) •8 ↑↑ …
+│  │  │  ├──Hurwitz matrix (Q2610096) •14
+│  │  │  ├──bordered Hessian matrix (Q2645505) •2
+│  │  │  ├──irreducible matrix (Q2731964) •1
+│  │  │  │  └──primitive matrix (Q25377924) •1 ↑
+│  │  │  │     └──positive matrix (Q22582649) •1
+│  │  │  │        ╞══Hilbert matrix (Q612991) •17 ↑↑↑ …
+│  │  │  │        ╞══matrix of ones (Q2916484) •10 ↑↑↑ …
+│  │  │  │        └──totally positive matrix (Q3893192) •5
+│  │  │  ╞══block diagonal matrix (Q2933833) •1 ↑↑ …
+│  │  │  ├──P-matrix (Q3062594) •5
+│  │  │  │  ╘══M-matrix (Q3064355) •4 ↑↑ …
+│  │  │  ├──Z-matrix (Q3064361) •7
+│  │  │  │  ╞══diagonal matrix (Q332791) •35 ↑↑↑↑↑↑↑ …
+│  │  │  │  ╞══M-matrix (Q3064355) •4 ↑↑ …
+│  │  │  │  └──L-matrix (Q28455756) •3
+│  │  │  ├──Wigner D-matrix (Q3299244) •7
+│  │  │  ├──Green's matrix (Q3299258) •3
+│  │  │  ├──Hamiltonian matrix (Q3299275) •5
+│  │  │  ├──idempotent matrix (Q3751720) •16
+│  │  │  │  ╞══identity matrix (Q193794) •46 ↑↑↑↑↑↑↑ …
+│  │  │  │  ╞══zero matrix (Q338028) •31 ×1 ↑↑↑↑↑ …
+│  │  │  │  ╘══centering matrix (Q5060045) •2 ↑ …
+│  │  │  ├──persymmetric matrix (Q3757134) •7
+│  │  │  │  ├──Toeplitz matrix (Q849428) •27
+│  │  │  │  │  ├──circulant matrix (Q245457) •12
+│  │  │  │  │  ╘══autocorrelation matrix (Q17622025) •2 ↑ …
+│  │  │  │  ╞══bisymmetric matrix (Q3751716) •8 ↑↑ …
+│  │  │  │  └──anti-diagonal matrix (Q4774357) •10
+│  │  │  │     ╘══exchange matrix (Q3750339) •8 ↑↑ …
+│  │  │  ├──alternating sign matrix (Q3848436) •6 ↑↑
+│  │  │  │  ╞══identity matrix (Q193794) •46 ↑↑↑↑↑↑↑ …
+│  │  │  │  ╘══permutation matrix (Q851512) •27 ↑↑↑↑↑↑ …
+│  │  │  ├──two-by-two matrix (Q3851915) •1 ×1
+│  │  │  │  ╞══Pauli matrices (Q336233) •34 ×3 ↑↑↑ …
+│  │  │  │  ├──2 × 2 real matrices (Q4633426) •3 ↑
+│  │  │  │  ├──Brahmagupta matrix (Q4929982) •6
+│  │  │  │  ╘══square root of a 2 by 2 matrix (Q7582079) •2 ↑ …
+│  │  │  ╞══Filbert matrix (Q3851923) •2 ↑↑ …
+│  │  │  ├──Redheffer matrix (Q3851926) •6 ↑
+│  │  │  ├──Weighing matrix (Q3895032) •4 ↑
+│  │  │  ├──Krawtchouk matrices (Q4284939) •4
+│  │  │  ├──Arrowhead matrix (Q4796198) •3
+│  │  │  ├──Brandt matrix (Q4957187) •1 ↑
+│  │  │  ├──Carleman matrix (Q5041155) •3
+│  │  │  ╞══complex Hadamard matrix (Q5156556) •2 ↑ …
+│  │  │  ├──convergent matrix (Q5166397) •1
+│  │  │  ├──Corner transfer matrix (Q5171639) •1
+│  │  │  ├──DFT matrix (Q5204933) •4 ↑
+│  │  │  ├──defective matrix (Q5251123) •3
+│  │  │  ├──Edmonds matrix (Q5338959) •2
+│  │  │  ├──generalized permutation matrix (Q5532500) •5
+│  │  │  │  ╞══diagonal matrix (Q332791) •35 ↑↑↑↑↑↑↑ …
+│  │  │  │  └──signed permutation matrix (Q21045276) •1 ↑
+│  │  │  │     ╘══permutation matrix (Q851512) •27 ↑↑↑↑↑↑ …
+│  │  │  ├──Hasse–Witt matrix (Q5680044) •1
+│  │  │  ├──higher spin alternating sign matrix (Q5758413) •1 ↑
+│  │  │  │  ╘══alternating sign matrix (Q3848436) •6 ↑↑ …
+│  │  │  ├──Metzler matrix (Q5931208) •4
+│  │  │  ├──network operator matrix (Q7001154) •1
+│  │  │  ├──Tutte matrix (Q7857001) •3
+│  │  │  ├──Weyl–Brauer matrices (Q7990340) •1
+│  │  │  │  ╘══Pauli matrices (Q336233) •34 ×3 ↑↑↑ …
+│  │  │  ├──Hollow matrix (Q12806125) •2
+│  │  │  ├──Higher-dimensional gamma matrices (Q17029643) •1
+│  │  │  │  └──Gamma matrices (Q1151645) •16
+│  │  │  ├──productive matrix (Q19360939) •2 ↑
+│  │  │  ├──Q-matrix (Q21071503) •2
+│  │  │  ╞══inverse-positive matrix (Q22666682) ↑ …
+│  │  │  ╞══fundamental matrix (Q39351938) •3 ↑ …
+│  │  │  ╞══block tridiagonal matrix (Q77967267) ↑ …
+│  │  │  ├──triangularizable matrix (Q77969601)
+│  │  │  │  ╘══triangular matrix (Q506265) •35 ↑ …
+│  │  │  └──traceless matrix (Q77980392) ×1
+│  │  ├──Cauchy matrix (Q2915997) •11
+│  │  │  ╘══Hilbert matrix (Q612991) •17 ↑↑↑ …
+│  │  ├──quaternionic matrix (Q3029670) •3
+│  │  │  └──complex matrix (Q43144845)
+│  │  │     ├──Hermitian conjugate matrix (Q2051983) •27
+│  │  │     ╞══skew-Hermitian matrix (Q2268788) •15 ↑ …
+│  │  │     ├──real matrix (Q43144903)
+│  │  │     │  ╞══rotation matrix (Q1256564) •21 ↑ …
+│  │  │     │  ╞══2 × 2 real matrices (Q4633426) •3 ↑ …
+│  │  │     │  ├──nonnegative matrix (Q6961560) •7
+│  │  │     │  │  ╞══stochastic matrix (Q176583) •21 ↑ …
+│  │  │     │  │  ├──logical matrix (Q1994977) •19 ↑↑
+│  │  │     │  │  │  ╞══zero matrix (Q338028) •31 ×1 ↑↑↑↑↑ …
+│  │  │     │  │  │  ╞══permutation matrix (Q851512) •27 ↑↑↑↑↑↑ …
+│  │  │     │  │  │  ╞══matrix of ones (Q2916484) •10 ↑↑↑ …
+│  │  │     │  │  │  ╞══Redheffer matrix (Q3851926) •6 ↑ …
+│  │  │     │  │  │  ├──reachablity matrix (Q4284932) •3
+│  │  │     │  │  │  ├──Duplication and elimination matrices (Q5316014) •1
+│  │  │     │  │  │  │  └──duplication matrix (Q39287244)
+│  │  │     │  │  │  ├──perfect matrix (Q7168088) •3
+│  │  │     │  │  │  │  └──balanced matrix (Q4849993) •1
+│  │  │     │  │  │  ╞══shift matrix (Q7496248) •5 ↑ …
+│  │  │     │  │  │  └──single-entry matrix (Q7523714) •4
+│  │  │     │  │  ╞══Euclidean distance matrix (Q5406122) •3 ↑↑ …
+│  │  │     │  │  ╞══productive matrix (Q19360939) •2 ↑ …
+│  │  │     │  │  ╞══doubly non-negative matrix (Q22582534) ↑ …
+│  │  │     │  │  ╞══primitive matrix (Q25377924) •1 ↑ …
+│  │  │     │  │  └──completely positive matrix (Q78480143)
+│  │  │     │  ├──semi-orthogonal matrix (Q7449314) •1
+│  │  │     │  │  ╘══orthogonal matrix (Q333871) •29 ↑↑↑ …
+│  │  │     │  ╞══real symmetric matrix (Q10949536) •2 ↑↑ …
+│  │  │     │  ╞══monotone matrix (Q28455762) •1 ↑ …
+│  │  │     │  ├──rational matrix (Q43144947)
+│  │  │     │  │  ╞══Filbert matrix (Q3851923) •2 ↑↑ …
+│  │  │     │  │  └──integer matrix (Q6042601) •6
+│  │  │     │  │     ╞══unimodular matrix (Q1367055) •12 ↑ …
+│  │  │     │  │     ╞══Cartan matrix (Q2004951) •11 ↑ …
+│  │  │     │  │     ╞══alternating sign matrix (Q3848436) •6 ↑↑ …
+│  │  │     │  │     ╞══Brandt matrix (Q4957187) •1 ↑ …
+│  │  │     │  │     ╞══higher spin alternating sign matrix (Q5758413) •1 ↑ …
+│  │  │     │  │     └──(0,1,−1)-matrix (Q43148722)
+│  │  │     │  │        ├──incidence matrix (Q939272) •22
+│  │  │     │  │        ╞══Conference matrix (Q1125095) •6 ↑ …
+│  │  │     │  │        ╞══logical matrix (Q1994977) •19 ↑↑ …
+│  │  │     │  │        ╞══Weighing matrix (Q3895032) •4 ↑ …
+│  │  │     │  │        ╞══signature matrix (Q4921154) •4 ↑↑ …
+│  │  │     │  │        ├──totally unimodular matrix (Q12059423) •2
+│  │  │     │  │        ╞══signed permutation matrix (Q21045276) •1 ↑ …
+│  │  │     │  │        └──(-1,1)-matrix (Q43217162)
+│  │  │     │  │           ╘══Hadamard matrix (Q1422682) •20 ×1 ↑ …
+│  │  │     │  ╘══semidefinite matrix (Q77601306) ↑ …
+│  │  │     ╘══unitarily diagonalizable matrix (Q50255844) ↑ …
+│  │  ├──commuting matrices (Q3360633) •4
+│  │  ├──Z-matrix (Q4053513) •6
+│  │  ├──compound matrix (Q5156840) •1
+│  │  ├──conformable matrix (Q5160239) •2
+│  │  ├──data matrix (Q5227315) •1
+│  │  ├──decomposition matrix (Q5249565) •1
+│  │  ├──design matrix (Q5264358) •4
+│  │  ├──Document-term matrix (Q5287620) •3
+│  │  ├──Moore matrix (Q6908274) •4
+│  │  ├──packed storage matrix (Q7122936) •1
+│  │  ├──Polyphase matrix (Q7226737) •1
+│  │  ├──position-specific scoring matrix (Q7233183) •4
+│  │  ├──R-matrix (Q7273285) •1
+│  │  ├──Smith normal form (Q7545384) •5
+│  │  ├──complex conjugate matrix (Q10754052) •5
+│  │  ├──Cauchy matrix (Q16674797) •1
+│  │  ├──fundamental matrix (Q17014996) •4
+│  │  ├──Next-generation matrix (Q17071746) •2
+│  │  ├──Manin matrix (Q17098697) •1
+│  │  ├──stoichiometry matrix (Q20180775) •2
+│  │  ├──general matrix (Q21050603) •1
+│  │  ├──Rosenbrock system matrix (Q25303672) •2
+│  │  ├──Transfer function matrix (Q28130292) •3
+│  │  ├──Parisi matrix (Q39278852)
+│  │  ├──ray transfer matrix (Q55162610)
+│  │  ├──ABCD matrix (Q55162840)
+│  │  ├──Boolean matrix (Q55605753) •2
+│  │  │  ╘══logical matrix (Q1994977) •19 ↑↑ …
+│  │  ├──EP matrix (Q61625231)
+│  │  │  ╘══normal matrix (Q6852339) •25 ↑ …
+│  │  ├──Kronecker power (Q77978441)
+│  │  └──Runge-Kutta matrix (Q97664752)
+│  ├──dynamic array (Q128555) •13
+│  │  ├──gap buffer (Q3646602) •4
+│  │  └──hashed array tree (Q5678892) •3
+│  ├──suffix array (Q281472) •13
+│  │  └──compressed suffix array (Q5157028) •2
+│  ├──lookup table (Q690265) •22
+│  │  └──rainbow table (Q1139146) •21
+│  ├──bitmap (Q1194708) •13 ↑
+│  │  └──heightmap (Q162738) •8
+│  ├──bit array (Q1992074) •12 ↑
+│  │  ├──bitboard (Q746674) •6
+│  │  ╘══bitmap (Q1194708) •13 ↑ …
+│  ├──bit field (Q2374485) •12
+│  ├──input–output table (Q2918662) •1
+│  ├──dot matrix (Q3714476) •7 ×1
+│  │  └──raster graphics (Q182270) •56 ↑
+│  │     ├──subpixel rendering (Q452912) •7
+│  │     ├──sprite (Q1333015) •29
+│  │     │  └──CSS sprites (Q1024424) •2
+│  │     └──raster-graphics file format (Q105599390) ×46 ↑
+│  │        ├──Portable Network Graphics (Q178051) •57 ×3
+│  │        ├──Windows Bitmap (Q192869) •39
+│  │        │  └──Windows Bitmap, version 3.0 NT (Q63061679)
+│  │        ├──TIFF (Q215106) •41 ×4
+│  │        │  ├──Tagged Image File Format/Electronic Photography (Q7670377) •2
+│  │        │  └──Canon Original RAW, version 2 (Q27866048)
+│  │        ├──raw image format (Q654383) •26 ×35 ↑
+│  │        │  └──Canon Original RAW (Q26791581) •1
+│  │        ├──Netpbm formats (Q17154458) •12 ↑
+│  │        │  └──Portable Anymap (Q28206714)
+│  │        ├──JPEG File Interchange Format (Q26329975) •5 ×2 ↑
+│  │        │  └──JPEG File Interchange Format, version 1.0 (Q26329648)
+│  │        └──WebP (Q62617958) •25 ×2
+│  │           └──WebP Extended (Q45989477) ×2 ↑↑
+│  ├──macrocell array (Q4284934) •4
+│  ├──parallel array (Q4344917) •8 ↑↑
+│  ├──sparse array (Q4388728) •3
+│  ├──control table (Q5165889) •3
+│  ├──dope vector (Q5297305) •2
+│  ├──sorted array (Q7563772) •2
+│  ├──variable-length array (Q7915684) •5
+│  └──??? (Q9092779) •1
+├──data type (Q190087) •50 ×38
+│  ├──pointer (Q118155) •46 ×5 ↑
+│  │  ├──dangling pointer (Q1642293) •13 ↑
+│  │  ├──smart pointer (Q1665677) •14 ×1 ↑
+│  │  ├──function pointer (Q2736305) •11
+│  │  ├──Far pointer (Q5434657) •1
+│  │  └──opaque pointer (Q7095589) •5 ↑
+│  ├──array data type (Q121079) •5
+│  ├──character encoding (Q184759) •47 ×83 ↑↑
+│  │  ├──Armenian Standard Code for Information Interchange (Q144352) •6
+│  │  ├──character encoding in HTML (Q184756) •6
+│  │  ├──code page (Q184766) •14 ×42 ↑
+│  │  │  ├──APL code page (Q4653329) •1 ×4
+│  │  │  ├──EBCDIC code page (Q5322571) •1 ×23
+│  │  │  ├──Polish code pages (Q7210023) •2
+│  │  │  │  └──XJP (Q9383074) •1
+│  │  │  ├──Windows code page (Q8024464) •1 ×14
+│  │  │  └──DOS code page (Q41734983) ×36
+│  │  ├──Brahmic scripts in Unicode (Q372395) •4
+│  │  ├──variable-width encoding (Q386787) •6 ×15 ↑↑
+│  │  │  ├──Extended Unix Code (Q1140550) •8 ×3 ↑
+│  │  │  └──DBCS (Q1186870) •11 ×5 ↑
+│  │  ╞══DBCS (Q1186870) •11 ×5 ↑ …
+│  │  ├──Unicode Transformation Format (Q1416278) •2 ×6 ↑
+│  │  │  └──Standard Compression Scheme for Unicode (Q7598213) •5
+│  │  ├──SBCS (Q2289247) •6
+│  │  ├──KOI character encodings (Q2512796) •11
+│  │  ├──Extended ASCII (Q2610482) •11 ×33
+│  │  │  ╞══Extended Unix Code (Q1140550) •8 ×3 ↑ …
+│  │  │  ├──Mac Icelandic encoding (Q17042507) •1 ↑
+│  │  │  └──MacGreek encoding (Q17042510) •1 ↑
+│  │  ├──Binary Ordered Compression for Unicode (Q2903897) •4
+│  │  ├──binary-to-text encoding (Q3775042) •6 ×13
+│  │  ├──GOST 10859 (Q5514108) •1
+│  │  ├──JIS encoding (Q6108264) •2
+│  │  ├──precomposed hangul encoding (Q12623918) •1
+│  │  ├──decomposed hangul encoding (Q12623919) •1
+│  │  ├──Morse alphabet (Q25616446) •1 ↑
+│  │  ├──RISC OS character set (Q30592417) •1
+│  │  ├──dingbat typeface (Q47167051) ×7 ↑
+│  │  └──standard character set (Q59155105)
+│  ├──SGML entity (Q285300) •9
+│  │  └──HTML entity (Q91936811) •1
+│  ├──C data type (Q838047) •8 ×2
+│  │  └──integral type in C (Q12580838) •1 ×1 ↑
+│  ├──dependent type (Q997433) •7
+│  ├──C++ class (Q1057678) •13
+│  ├──primitive data type (Q1188648) •11 ×2
+│  │  ├──boolean data type (Q520777) •38 ×1
+│  │  │  └──logic gate (Q170451) •65 ×1
+│  │  │     ├──XOR gate (Q155516) •28
+│  │  │     ├──Fredkin gate (Q338556) •9
+│  │  │     ├──AND gate (Q560370) •39
+│  │  │     ├──OR gate (Q560398) •35
+│  │  │     ├──NAND gate (Q575178) •39
+│  │  │     ├──inverter (Q664575) •37
+│  │  │     ├──barrel shifter (Q808850) •9
+│  │  │     ├──XNOR gate (Q1336142) •28
+│  │  │     ├──Toffoli gate (Q2502619) •13
+│  │  │     ├──YES gate (Q3075158) •4
+│  │  │     ├──molecular logic gate (Q3908937) •6 ↑
+│  │  │     ├──NOR gate (Q8065380) •27
+│  │  │     └──IMPLY gate (Q18562927) •5
+│  │  ├──integer data type (Q729138) •34 ×4 ↑
+│  │  │  ├──short int (Q838211) •2
+│  │  │  ├──exit status (Q2553232) •8
+│  │  │  │  └──error code (Q1313852) •5 ×1
+│  │  │  │     ├──Roper Range stove fault codes (Q28206097)
+│  │  │  │     ├──Maytag stove fault codes (Q28206389)
+│  │  │  │     ├──MySQL error code (Q28206396)
+│  │  │  │     ├──Kitchen Aid stove fault codes (Q28344955)
+│  │  │  │     ├──Admiral stove fault codes (Q28600290)
+│  │  │  │     └──Oracle database error messages (Q29167830)
+│  │  │  ├──64-bit integer (Q9358198) •1
+│  │  │  ╞══integral type in C (Q12580838) •1 ×1 ↑ …
+│  │  │  ├──unsigned integer (Q24839051) •1 ×1
+│  │  │  └──signed integer (Q28205722) ×1
+│  │  ├──reference data type (Q1334113) •22 ×2
+│  │  │  ├──weak reference (Q2032747) •6
+│  │  │  └──Wikimedia redirect page (Q21528878) ×2 ↑↑
+│  │  │     ├──DNB redirect page (Q19648608) ×844 ↑
+│  │  │     ├──Wiktionary redirect (Q21278897) ×1185
+│  │  │     ├──Alumni Oxonienses redirect page (Q96286657) ×55 ↑
+│  │  │     ├──article redirect (Q97498045) ×1 ↑
+│  │  │     └──Men-at-the-Bar redirect page (Q99264677) ×2 ↑
+│  │  ├──Real data type (Q4385701) •5
+│  │  └──JavaScript primitive data type (Q55141493) ×6 ↑
+│  ├──algebraic data type (Q1322511) •11
+│  ├──composite data type (Q1413465) •5 ×1
+│  ├──Data domain (Q2385774) •6 ↑
+│  ├──computer numbering format (Q3244670) •7 ×3
+│  │  ├──floating point (Q117879) •41 ×8
+│  │  │  ├──minifloat (Q449270) •3
+│  │  │  ├──NaN (Q858684) •25
+│  │  │  ├──denormal number (Q1070094) •8
+│  │  │  ├──double-precision floating-point format (Q1243369) •14
+│  │  │  ├──decimal floating point (Q5249173) •3 ×2 ↑
+│  │  │  └──normal number (Q7051819) •1
+│  │  ├──arbitrary-precision arithmetic (Q527381) •13 ↑
+│  │  ├──fixed-point arithmetic (Q649900) •17
+│  │  ╞══integer data type (Q729138) •34 ×4 ↑ …
+│  │  ├──logarithmic number system (Q3329233) •3
+│  │  ├──Chen–Ho encoding (Q5091568) •1
+│  │  ├──signed number representation (Q5359789) •13 ×4 ↑↑
+│  │  ├──Serial decimal (Q7454683) •1
+│  │  ├──symmetric level-index arithmetic (Q7661310) •1
+│  │  ├──Unum (Q25211958) •2
+│  │  └──tapered floating point (Q55634700) •1
+│  ├──bottom type (Q3546108) •3
+│  ├──data type (Q3991683) •1
+│  │  └──class (Q4479242) •50 ×3
+│  │     ├──subclass (Q1366323) •4
+│  │     ├──abstract type (Q1781552) •15
+│  │     │  └──interface (Q3340274) •11 ↑
+│  │     ├──metaclass (Q1924819) •12 ×1 ↑
+│  │     │  ├──axiom schema (Q792536) •11 ×3
+│  │     │  ├──classifier (Q1096149) •3
+│  │     │  └──eigenclass (Q100740553) •1
+│  │     ├──Inner class (Q1965861) •8
+│  │     └──generic class (Q2956710) •1
+│  ├──top type (Q4129836) •3
+│  ├──reference (Q4438875) •4 ↑
+│  ├──Data cube (Q5227269) •3
+│  ╞══signed number representation (Q5359789) •13 ×4 ↑↑ …
+│  ├──opaque data type (Q7095588) •3
+│  │  ╘══opaque pointer (Q7095589) •5 ↑ …
+│  ├──ordinal data type (computer programming) (Q7100787) •3
+│  ├──product type (Q7247800) •4 ↑
+│  ├──statistical data type (Q7604387) •1 ×4 ↑
+│  │  └──composite measure (statistics) (Q18206127) •2
+│  │     ├──scale in social sciences (Q16155171) •1 ×3
+│  │     ├──index (Q18208028) •3 ×2
+│  │     └──typology (Q18355541) •1
+│  ├──value type (Q7912781)
+│  ├──variable-length quantity (Q7915686) •2
+│  ├──floating-point type in C (Q12580837) •1 ×1
+│  ├──reference type (Q17134501) •1
+│  │  ╞══reference (Q4438875) •4 ↑ …
+│  │  └──rvalue reference (Q18652028) •1 ↑
+│  ╞══rvalue reference (Q18652028) •1 ↑ …
+│  ├──C array (Q19366708) •11
+│  ├──Wikibase datatype (Q19798645) ×19 ↑
+│  │  └──Wikibase datatype with only one value (Q19798657) ×2
+│  ├──unsigned char (Q29465264)
+│  ├──Structured Query Language data type (Q34290865)
+│  │  └──structured type (Q7625217) •1 ↑
+│  ├──JavaScript data type (Q55141305)
+│  │  ╞══JavaScript primitive data type (Q55141493) ×6 ↑ …
+│  │  └──JavaScript composite data type (Q55141700) ×1
+│  ├──value type and reference type (Q59627259) •4
+│  └──synchronization primitive (Q96359153) ×3
+│     ├──critical section (Q1046373) •22
+│     ├──lock (Q1427251) •18 ↑
+│     │  ├──spinlock (Q570276) •15
+│     │  ├──giant lock (Q858977) •7
+│     │  ├──two-phase locking (Q2290484) •7
+│     │  │  └──Conservative two-phase locking (Q5163111) •1
+│     │  ├──file locking (Q3275149) •9 ↑
+│     │  ├──global interpreter lock (Q5570451) •8 ↑
+│     │  ├──Index locking (Q6017846) •2
+│     │  ├──locks with ordered sharing (Q6665807) •1
+│     │  ├──Multiple granularity locking (Q6934941) •4
+│     │  ├──readers–writer lock (Q7300441) •4 ↑
+│     │  ├──seqlock (Q7452423) •1
+│     │  └──record locking (Q17086786) •3
+│     ├──barrier (Q2885682) •11
+│     │  ├──memory barrier (Q875051) •8
+│     │  └──Sequence point (Q2041271) •6
+│     └──mutex (Q96375508) •2
+├──tree data structure (Q223655) •44 ×3 ↑
+│  ├──hash tree (Q14746) •23
+│  ├──heap (Q274089) •39 ×2
+│  │  ├──2–3 heap (Q4634019) •2
+│  │  ├──beap (Q4876324) •2
+│  │  ├──skew heap (Q4893208) •6 ↑
+│  │  ├──brodal queue (Q4972931) •3 ↑
+│  │  ├──d-ary heap (Q5203305) •5 ↑
+│  │  │  ├──binary heap (Q803847) •21 ↑↑
+│  │  │  │  ├──leftist tree (Q627595) •5 ↑
+│  │  │  │  ├──treap (Q1757700) •15 ↑
+│  │  │  │  │  └──Cartesian tree (Q5047286) •9
+│  │  │  │  └──weak heap (Q25304407) •1 ↑↑
+│  │  │  └──ternary heap (Q38042244) ↑
+│  │  ├──soft heap (Q7553986) •4
+│  │  ├──pairing heap (Q17152481) •5
+│  │  └──k-ary heap (Q29791673)
+│  │     ╞══binary heap (Q803847) •21 ↑↑ …
+│  │     ╘══ternary heap (Q38042244) ↑ …
+│  ├──B+ tree (Q285861) •16
+│  │  ├──UB-tree (Q2466492) •4
+│  │  ├──Bx-tree (Q5003703) •3
+│  │  └──??? (Q21189942) •1
+│  ├──binary tree (Q380172) •40 ×1 ↑↑
+│  │  ├──Stern–Brocot tree (Q599079) •11
+│  │  ├──binary search tree (Q623818) •32 ↑
+│  │  │  ├──splay tree (Q80729) •19
+│  │  │  ├──self-balancing binary search tree (Q245955) •11 ×2 ↑
+│  │  │  │  ├──(a,b)-tree (Q4544940) •6 ↑
+│  │  │  │  │  └──B-tree (Q677051) •32 ×1 ↑↑↑↑
+│  │  │  │  │     ├──2–3–4 tree (Q169233) •14
+│  │  │  │  │     ├──2–3 tree (Q169338) •17
+│  │  │  │  │     ├──B*-tree (Q1936252) •6
+│  │  │  │  │     ├──dancing tree (Q2078122) •5
+│  │  │  │  │     ├──fusion tree (Q5510283) •3
+│  │  │  │  │     │  └──AF-heap (Q4651388) •1 ↑
+│  │  │  │  │     └──queap (Q7269731) •4 ↑
+│  │  │  │  ├──WAVL tree (Q25304244) •2
+│  │  │  │  └──height-balanced binary search tree (Q29795767) ×2 ↑
+│  │  │  ├──threaded binary tree (Q852081) •8
+│  │  │  ╞══treap (Q1757700) •15 ↑ …
+│  │  │  ├──finger search tree (Q5450242) •2
+│  │  │  ├──order statistic tree (Q7100701) •2
+│  │  │  ├──tango tree (Q7683117) •2
+│  │  │  ├──balanced binary tree (Q11061289) •1 ↑
+│  │  │  │  └──balanced binary search tree (Q29792340) ↑
+│  │  │  ╞══balanced binary search tree (Q29792340) ↑ …
+│  │  │  └──discrete interval encoding tree (Q29792647)
+│  │  ├──Random binary tree (Q751292) •4 ↑
+│  │  ├──rope (Q1156047) •6
+│  │  ├──T-tree (Q2562299) •7
+│  │  ╞══skew heap (Q4893208) •6 ↑ …
+│  │  ├──pagoda (Q7124395) •1 ↑
+│  │  ├──top tree (Q7824733) •2
+│  │  ├──left-child right-sibling binary tree (Q10854318) •4
+│  │  ├──complete binary tree (Q29791664) ↑
+│  │  │  ╞══binary heap (Q803847) •21 ↑↑ …
+│  │  │  └──perfect binary tree (Q29791666) ↑
+│  │  ├──full binary tree (Q29791667)
+│  │  │  ╞══perfect binary tree (Q29791666) ↑ …
+│  │  │  └──coding tree (Q29791669) ↑
+│  │  ├──BD-tree (Q29793551)
+│  │  └──extended binary tree (Q29794170)
+│  ├──parse tree (Q627921) •24
+│  ├──range tree (Q818944) •4
+│  ├──Van Emde Boas tree (Q837274) •7
+│  ├──quadtree (Q934791) •14 ↑
+│  ├──octree (Q1143237) •19 ↑
+│  ├──R-tree (Q1198051) •17
+│  ├──disjoint-set data structure (Q1259393) •20
+│  ├──Fenwick tree (Q1276370) •10
+│  ├──virtual file system (Q1330734) •17 ×5 ↑↑
+│  ├──SPQR tree (Q2902363) •5
+│  ├──binomial tree (Q3607994) •2
+│  │  └──Bk-tree (Q4835786) •4
+│  ├──M-tree (Q3841143) •2
+│  ├──X-tree (Q4021212) •4
+│  ├──adaptive k-d tree (Q4680745) •1
+│  ├──Enfilade (Q5377339) •1
+│  ├──exponential tree (Q5421528) •2
+│  ├──FM-index (Q5426601) •3
+│  ├──R* tree (Q6451496) •7
+│  ├──R+ tree (Q6451502) •4
+│  ├──link/cut tree (Q6554218) •1
+│  ├──multi-way tree (Q16976839) •2
+│  │  └──k-ary tree (Q3608019) •4 ↑↑
+│  │     ╞══binary tree (Q380172) •40 ×1 ↑↑ …
+│  │     ├──and–or tree (Q2492680) •5
+│  │     └──ternary tree (Q7263850) •2
+│  │        ├──ternary search tree (Q2859802) •10 ↑
+│  │        └──tree of primitive Pythagorean triples (Q7837618) •5
+│  ├──balanced tree (Q29791656) •5
+│  │  ╞══self-balancing binary search tree (Q245955) •11 ×2 ↑ …
+│  │  ╞══B-tree (Q677051) •32 ×1 ↑↑↑↑ …
+│  │  ├──weight-balanced tree (Q7979855) •5
+│  │  │  └──D-tree (Q29793968)
+│  │  ╞══balanced binary tree (Q11061289) •1 ↑ …
+│  │  └──height-balanced tree (Q29791960)
+│  │     ╘══height-balanced binary search tree (Q29795767) ×2 ↑ …
+│  ├──complete tree (Q29791660)
+│  │  ╞══complete binary tree (Q29791664) ↑ …
+│  │  └──perfect k-ary tree (Q29792785)
+│  ├──digital tree (Q29791662)
+│  │  └──digital search tree (Q29793089) ↑
+│  ╞══digital search tree (Q29793089) ↑ …
+│  ├──Euclidean Steiner tree (Q29794122)
+│  ├──finitary tree (Q29794311)
+│  └──BSP tree (Q30235544)
+│     └──k-d tree (Q309949) •15 ×1
+│        └──extended k-d tree (Q29794207)
+├──intermediate representation (Q244916) •16 ×3 ↑
+│  ├──continuation-passing style (Q749893) •6
+│  ├──static single assignment form (Q2667487) •8
+│  ├──A-normal form (Q4646997) •1
+│  └──Semantic dictionary encoding (Q7449055) •1
+├──database index (Q580427) •24 ×6
+│  ├──bitmap index (Q878825) •3
+│  ├──dense index (Q4365417) •1
+│  └──spatial index (Q22205802) •5 ×1
+│     ╞══quadtree (Q934791) •14 ↑ …
+│     ╘══octree (Q1143237) •19 ↑ …
+├──partition table (Q614361) •15 ×2
+│  ├──Apple Partition Map (Q375944) •5
+│  ├──GUID Partition Table (Q603889) •22
+│  ├──BSD disklabel (Q1228785) •4 ×1
+│  ├──extended boot record (Q3062515) •8
+│  └──MBR partition table (Q55357515)
+├──use-define chain (Q647220) •4
+╞══B-tree (Q677051) •32 ×1 ↑↑↑↑ …
+╞══call stack (Q759899) •23 ↑ …
+├──union type (Q893290) •7
+├──system image (Q1047566) •5
+├──continuation (Q1128903) •11
+│  └──delimited continuation (Q5253991) •3
+├──process control block (Q1142922) •16
+│  ├──Process control block in Unix (Q3922358) •1
+│  └──Task Control Block (Q7687272) •1
+├──circular buffer (Q1224994) •18
+├──frame (Q1324888) •21
+│  ├──frame (Q5477883) •5
+│  ├──Ethernet frame (Q11331406) •12
+│  └──dwarf (Q16662008) •1
+├──flag (Q1374036) •15 ×1
+│  ├──overflow flag (Q332719) •6
+│  ├──carry flag (Q334167) •8
+│  ├──sticky bit (Q1260039) •12
+│  ├──interrupt flag (Q4035639) •2
+│  ├──direction flag (Q5280436) •1
+│  └──FIN (Q5696532) •1
+├──index structure (Q1423858) •3
+├──symbol table (Q1890437) •14
+├──feature data (Q1921825) •2
+├──triangulated irregular network (Q2296387) •14
+├──Judy array (Q2680578) •5
+├──Thread control block (Q3990844) •2
+├──passive data structure (Q4381439) •6
+├──line (Q4736436) •6
+├──block allocation map (Q4927183) •2
+├──concurrent data structure (Q5159104) •2
+├──Data Control Block (Q5227153) •2
+├──Hash trie (Q5678860) •2
+│  ╘══Hash array mapped trie (Q17091412) •1 ↑ …
+├──level set (Q6535093) •1
+├──linked data structure (Q6554356) •4 ×1
+│  ╘══linked list (Q7003418) •41 ×10 ↑ …
+├──zipper (Q6577686) •3
+├──substring index (Q7632171) •3 ×1
+├──Succinct data structure (Q7632678) •7
+├──tagged union (Q7675229) •5
+├──Unit Control Block (Q7887089) •1
+├──Iliffe vector (Q16352367) •2
+├──implicit data structure (Q16707838) •2
+│  ╘══parallel array (Q4344917) •8 ↑↑ …
+├──Hash tree (Q16948622) •1
+├──device tree (Q16960371) •3 ×6
+├──Retroactive data structures (Q17149514) •1
+├──conflict-free replicated data type (Q20031945) •3
+├──Conc-Tree list (Q25345007) •1
+├──purely functional data structure (Q27924245) •1 ×1
+├──Linear Data Set (Q30715609) •1
+├──S. N. A. K. (Q86719099)
+├──data block (Q104886715)
+└──virtual object (Q105636095)

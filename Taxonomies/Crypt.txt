@@ -1,0 +1,18 @@
+cryptography (Q8789) •102 ×7 ↑
+├──public-key cryptography (Q201339) •50 ×2
+│  ├──RSA (Q181551) •50
+│  └──elliptic curve cryptography (Q1048911) •22 ↑
+│     └──Elliptic curve Diffie–Hellman (Q3512728) •12
+├──cryptographic primitive (Q246593) •6 ×5 ↑↑↑
+│  ├──substitution box (Q748364) •16
+│  ├──secret sharing (Q1386603) •11
+│  │  └──homomorphic secret sharing (Q5891458) •1
+│  ├──substitution–permutation network (Q1433692) •16 ×1
+│  └──Indistinguishability obfuscation (Q56321094) •2
+├──hybrid cryptosystem (Q1639918) •10
+├──cryptovirology (Q3506050) •6
+├──Strong cryptography (Q4241181) •3
+├──Certificateless cryptography (Q5065118) •3
+├──post-quantum cryptography (Q7233576) •13
+├──non-commutative cryptography (Q18354158) •3
+└──cryptocurrency mining (Q21769973) •6

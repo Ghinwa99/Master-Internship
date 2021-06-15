@@ -1,0 +1,8 @@
+computer graphics (Q7600677) •20 ↑↑
+├──3D computer graphics (Q189177) •50 ×1
+│  └──3D reconstruction (Q4464732) •4 ↑
+├──2D computer graphics (Q1194763) •22
+├──CG artwork (Q5011011) •2
+├──Vertex (Q7922776) •7
+└──video game graphics (Q7927914) •6
+   └──full motion video (Q1473699) •17

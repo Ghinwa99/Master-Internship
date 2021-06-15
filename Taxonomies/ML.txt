@@ -1,1 +1,166 @@
-
+machine learning (Q2539) •70 ×5 ↑↑
+├──Explanation-based learning (Q133580) •2
+├──artificial neural network (Q192776) •63 ×5 ↑↑
+│  ├──ADALINE (Q348261) •7
+│  ├──hierarchical temporal memory (Q652594) •8 ↑↑
+│  ├──Neocognitron (Q669754) •6
+│  ├──autoencoder (Q786435) •12
+│  │  └──conditional variational autoencoder (Q105342847)
+│  ├──self-organizing map (Q1136838) •20
+│  ├──recurrent neural network (Q1457734) •22 ×1
+│  │  ├──Boltzmann machine (Q194706) •12
+│  │  ├──bidirectional associative memory (Q506355) •5
+│  │  ├──winner-take-all (Q769931) •3
+│  │  ├──Hopfield network (Q1407668) •21
+│  │  ├──echo state network (Q5332763) •5 ↑
+│  │  ├──long short-term memory (Q6673524) •13
+│  │  ├──recursive neural network (Q18393747) •4
+│  │  │  ├──recursive cascade correlation neural network (Q94695789)
+│  │  │  └──recursive neural tensor network (Q94695794)
+│  │  ├──Jordan Network (Q20082799) •3
+│  │  ├──Elman Network (Q20082800) •3
+│  │  ├──gated recurrent unit (Q25325415) •5
+│  │  ├──Hamming neural network (Q30891811) •1
+│  │  └──neural history compressor (Q94695713)
+│  ├──autoregressive model (Q2202883) •12 ×4 ↑
+│  ├──time delay neural network (Q2434543) •6
+│  ├──radial basis function network (Q2679684) •8
+│  ├──modular neural network (Q3504403) •4
+│  ├──Kohonen neural network (Q4316454) •2
+│  ├──Bayesian confidence propagation neural network (Q4875410) •1
+│  ├──cerebellar model articulation controller (Q5064071) •2
+│  ├──compositional pattern-producing network (Q5156806) •2
+│  ├──connectionist expert system (Q5161689) •1 ↑
+│  ╞══echo state network (Q5332763) •5 ↑ …
+│  ├──feedforward neural network (Q5441227) •14
+│  │  ├──perceptron (Q690207) •30
+│  │  │  └──kernel perceptron (Q17093018) •1
+│  │  ├──multilayer perceptron (Q2991667) •17
+│  │  ├──Probabilistic neural network (Q7246859) •4
+│  │  ├──convolutional neural network (Q17084460) •21 ×2
+│  │  │  ├──AlexNet (Q28325009) •3 ↑
+│  │  │  ├──Capsule neural network (Q55080127) •5 ↑
+│  │  │  ├──3D-convolutional neural network (Q55441204) ↑
+│  │  │  ├──Text-Attentional Convolutional Neural Network (Q94496683) ↑
+│  │  │  ├──LeNet-5 (Q94694243) •3 ↑
+│  │  │  ├──shift invariant neural network (Q94694421) ↑
+│  │  │  └──Spatial Transformer Network (Q94694459) ↑
+│  │  └──extreme learning machine (Q21948731) •8 ↑
+│  ├──liquid state machine (Q6557482) •5
+│  ├──pulse-coupled network (Q7259628) •1
+│  ├──stochastic neural network (Q7617824) •5
+│  │  └──Restricted Boltzmann machine (Q7316287) •7
+│  ├──spiking neural network (Q9067355) •10
+│  ├──deep belief network (Q16954980) •6 ↑
+│  ├──Deep Q-Network (Q20722857) •1
+│  ╞══extreme learning machine (Q21948731) •8 ↑ …
+│  ├──generative adversarial network (Q25104379) •22 ×1 ↑
+│  ├──neural Turing machine (Q25325414) •5 ↑
+│  ├──Recurrent Entity Network (Q28015646)
+│  ├──Differentiable neural computer (Q28324912) •1
+│  ╞══AlexNet (Q28325009) •3 ↑ …
+│  ├──memory-augmented neural network (Q39017646)
+│  │  ╘══neural Turing machine (Q25325414) •5 ↑ …
+│  ├──Residual neural network (Q43744058) •2
+│  ├──deep neural network (Q51289900)
+│  │  └──highway network (Q42417573) •1 ×1
+│  ├──graph convolutional network (Q54811238)
+│  ╞══Capsule neural network (Q55080127) •5 ↑ …
+│  ╞══3D-convolutional neural network (Q55441204) ↑ …
+│  ├──RoBERTa (Q85124095)
+│  ├──transformer (Q85810444) •11 ×6
+│  ╞══Text-Attentional Convolutional Neural Network (Q94496683) ↑ …
+│  ╞══LeNet-5 (Q94694243) •3 ↑ …
+│  ├──Multi-Column Deep Neural Network (Q94694326)
+│  ├──Neural Abstraction Pyramid (Q94694375)
+│  ╞══shift invariant neural network (Q94694421) ↑ …
+│  ╞══Spatial Transformer Network (Q94694459) ↑ …
+│  ├──higher-order neural network (Q94695514)
+│  ├──Cresceptron (Q94695592)
+│  ├──dynamic ridge polynomial neural network (Q94695663)
+│  └──neural network pushdown automaton (Q94695738)
+├──deep learning (Q197536) •43 ×2
+│  └──deep reinforcement learning (Q55080229) •1 ↑
+├──supervised learning (Q334384) •33
+│  └──inductive programming (Q15712089) •6
+│     └──Inductive logic programming (Q1464197) •12
+├──pattern recognition (Q378859) •34 ×1
+╞══hierarchical temporal memory (Q652594) •8 ↑↑ …
+├──reinforcement learning (Q830687) •32
+│  ╘══deep reinforcement learning (Q55080229) •1 ↑ …
+├──chemometrics (Q910067) •24 ↑↑
+│  ├──Quantitative Structure–Activity Relationship (Q766383) •24 ↑↑
+│  └──proteochemometrics (Q50327360)
+├──semi-supervised learning (Q1041418) •8
+│  ├──active learning (Q4677561) •4 ↑↑
+│  └──label propagation algorithm (Q25111428) •1
+├──unsupervised learning (Q1152135) •26
+│  ├──independent component analysis (Q1259145) •16 ↑
+│  └──archetypal analysis (Q25051436) •1 ↑
+├──statistical classification (Q1744628) •29 ×1 ↑
+│  ├──document classification (Q302088) •15
+│  │  └──email filtering (Q2141106) •12 ×8
+│  │     └──Challenge–response spam filtering (Q5068977) •1
+│  ├──Multiclass classification (Q6934605) •4
+│  └──binary classification (Q17005494) •10
+│     └──dualism (Q167312) •59 ×7 ↑
+│        ├──apsis (Q83481) •66 ↑↑
+│        │  ├──periapsis (Q1088950) •16
+│        │  │  ├──perihelion (Q216807) •48 ↑
+│        │  │  ├──perigee (Q1349468) •28
+│        │  │  └──periastron (Q3754473) •8
+│        │  │     ╘══perihelion (Q216807) •48 ↑ …
+│        │  ├──apoapsis (Q2858363) •15
+│        │  │  ├──apogee (Q1179441) •28
+│        │  │  ├──aphelion (Q1699691) •47 ↑
+│        │  │  └──Apoastron (Q8159119) •10
+│        │  │     ╘══aphelion (Q1699691) •47 ↑ …
+│        │  └──perihelion and aphelion (Q35660603) •11
+│        ├──Marcionism (Q754941) •35 ↑
+│        ├──Soul dualism (Q936170) •4
+│        ├──Manichaeanism (Q3285868) •2
+│        ├──??? (Q4378865) •2
+│        ├──reciprocity (Q7302495) •2
+│        │  └──reciprocity (Q2147331) •17
+│        │     └──pay it forward (Q7156612) •3
+│        ├──dichotomy (Q10361123) •39 ×20 ↑
+│        │  ├──fact–value distinction (Q3030741) •3
+│        │  ├──gender binary (Q5530970) •31
+│        │  ├──yes and no (Q7486410) •8 ↑
+│        │  └──individual and society (Q97830117)
+│        ├──??? (Q16831130) •1
+│        └──topological direction (Q89241524) ↑
+│           ├──interior (Q862761) •25 ↑↑↑
+│           │  └──interior (Q2998430) •22 ×7 ↑
+│           │     ├──automotive interior (Q1785982) •1
+│           │     ├──counterfacade (Q3689238) •2 ↑
+│           │     ├──Matitsa (Q4284835) •3 ↑↑
+│           │     ├──building interior (Q30062422) •1
+│           │     │  └──church interior (Q30062483) •1 ×3
+│           │     ├──train interior (Q87329717) •1
+│           │     └──shop interior (Q100137724) •1 ×1 ↑
+│           └──exterior (Q1322786) •8 ↑↑↑
+├──transfer learning (Q6027324) •5
+├──multi-task learning (Q6934509) •3
+├──nonlinear dimensionality reduction (Q7049464) •3 ↑
+│  └──Isomap (Q6086067) •2
+├──offline learning (Q7079636) •1
+├──online machine learning (Q7094097) •7 ×2
+├──statistical relational learning (Q7604413) •2 ↑
+├──decision tree learning (Q16766476) •18
+├──feature learning (Q17013334) •8
+│  └──Sparse dictionary learning (Q25304494) •2
+├──quantum machine learning (Q18811578) •4
+├──adversarial machine learning (Q20312394) •6
+├──multiple kernel learning (Q25048660) •1
+├──multimodal learning (Q25052564) •1
+├──machine learning in bioinformatics (Q30314784) •4 ↑
+├──sequence-to-sequence learning (Q41589189) •1
+├──automated machine learning (Q43967068) •6
+├──image-to-image translation (Q45318647) ↑
+├──federated learning (Q50818671) •7 ↑
+├──interactive machine learning (Q51666139)
+├──end-to-end learning (Q64227998)
+├──weak supervision (Q65044138) •1
+├──self-supervised learning (Q77562367) •1
+└──gossip learning (Q107069002)

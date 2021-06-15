@@ -1,0 +1,179 @@
+operating system (Q9135) •165 ×1084 ↑
+├──Unix-like operating system (Q14656) •46 ×60
+│  ├──Linux (Q388) •191 ↑
+│  │  ├──openSUSE (Q16691) •49
+│  │  ├──Linux on System z (Q136277) •6
+│  │  ├──Gentoo Linux (Q170378) •51
+│  │  ├──webOS (Q305873) •29
+│  │  ├──Red Hat Enterprise Linux derivative (Q977076) •5 ×1
+│  │  ├──Openmoko Linux (Q2531940) •9
+│  │  ├──GNU/Linux (Q3251801) •21 ×2 ↑
+│  │  │  ├──Ubuntu (Q381) •178 ×1
+│  │  │  │  ├──Kubuntu (Q11250) •59
+│  │  │  │  ├──Lubuntu (Q39238) •43
+│  │  │  │  ├──Xubuntu (Q72688) •46
+│  │  │  │  │  └──Linux Kodachi (Q96631869) •1 ↑
+│  │  │  │  ├──Ubuntu Kylin (Q12226408) •21
+│  │  │  │  ├──Ubuntu MATE (Q18915790) •27
+│  │  │  │  └──Ubuntu Budgie (Q27964209) •15
+│  │  │  ├──desktop Linux (Q255188) •7
+│  │  │  ├──gNewSense (Q305901) •27
+│  │  │  ├──BLAG Linux and GNU (Q796216) •16
+│  │  │  ├──elementary OS (Q1321517) •38
+│  │  │  ├──Trisquel (Q1588573) •31 ↑
+│  │  │  ├──Parsix (Q2742192) •14
+│  │  │  ├──Kongoni GNU/Linux (Q5960443) •3
+│  │  │  ├──Debian (Q7715973) •99 ×9
+│  │  │  │  ├──Debian Pure Blend (Q387950) •5 ×1
+│  │  │  │  │  ├──Skolelinux (Q578713) •17
+│  │  │  │  │  ├──DeMuDi (Q1130489) •4
+│  │  │  │  │  ├──Debian Med (Q5248086) •3
+│  │  │  │  │  ├──DebianGIS (Q43634921)
+│  │  │  │  │  ├──DebiChem (Q43635278)
+│  │  │  │  │  ├──DebianAstro (Q43636199)
+│  │  │  │  │  ├──??? (Q43636658)
+│  │  │  │  │  └──Debina Science (Q43637860)
+│  │  │  │  ├──Raspberry Pi OS (Q890474) •25
+│  │  │  │  ├──Debian Live (Q5953007) •2
+│  │  │  │  ├──Ufficio Zero (Q6155239) •2 ↑
+│  │  │  │  └──Devuan (Q18601928) •15 ↑
+│  │  │  ├──AmonEcole (Q16038990)
+│  │  │  ├──GNU Guix System (Q19597382) •11 ↑
+│  │  │  ├──GalliumOS (Q54151974) •5
+│  │  │  ├──Enso OS (Q70461930)
+│  │  │  └──Unity Operating System (Q80933428) •7
+│  │  ╞══Devuan (Q18601928) •15 ↑ …
+│  │  ╘══Linux Kodachi (Q96631869) •1 ↑ …
+│  ├──Unix (Q11368) •114 ×23
+│  │  ├──macOS (Q14116) •100 ×19 ↑
+│  │  │  ├──macOS Server (Q719621) •19
+│  │  │  └──OSx86 (Q6047784) •1
+│  │  ├──GNU (Q44571) •81
+│  │  │  ╞══GNU/Linux (Q3251801) •21 ×2 ↑ …
+│  │  │  └──GNU/Hurd (Q89580282)
+│  │  │     ├──Debian GNU/Hurd (Q2086463) •17
+│  │  │     ├──Arch Hurd (Q2587354) •10
+│  │  │     ╘══GNU Guix System (Q19597382) •11 ↑ …
+│  │  ├──Tru64 UNIX (Q204214) •16
+│  │  ├──OpenSolaris (Q237580) •37
+│  │  ├──UNIX System V (Q633192) •27 ×1
+│  │  ├──Plan 9 (Q725779) •27
+│  │  ├──Banyan VINES (Q731220) •8
+│  │  ├──NeXTSTEP (Q831367) •25
+│  │  ├──BeleniX (Q973778) •9
+│  │  ├──Xinuos OpenServer (Q1755887) •15
+│  │  ├──MUNIX (Q1882031) •1
+│  │  ├──SchilliX (Q2165453) •8
+│  │  ├──Research Unix (Q2666693) •10 ×5
+│  │  ├──Cromix (Q10261777) •1
+│  │  ├──UNIX 98 (Q13420342) •4 ↑
+│  │  ├──BSD (Q58636917) ×12
+│  │  │  └──OpenBSD (Q34215) •61
+│  │  ├──UNIX 03 (Q105989562) •2 ×13 ↑
+│  │  ├──UNIX V7 (Q105989599) •2 ↑
+│  │  ├──UNIX 95 (Q105990004) •2 ↑
+│  │  ├──UNIX 93 (Q105990097) •2 ↑
+│  │  └──AT&T UNIX (Q105994387) •2 ×2
+│  ├──TrueOS (Q34182) •29 ×1
+│  ├──Hurd (Q48464) •41
+│  ├──iOS (Q48493) •92 ×10
+│  │  ├──tvOS (Q20965967) •21
+│  │  └──iPadOS (Q64350339) •28
+│  │     ├──iPadOS 13 (Q64358330) •9
+│  │     ├──iPadOS 14 (Q96583353) •10
+│  │     └──iPadOS 15 (Q107139679) •7
+│  ├──Chrome OS (Q79531) •52
+│  ├──Linux distribution (Q131669) •62 ×530 ↑
+│  │  ├──lightweight Linux distribution (Q588784) •15 ×25
+│  │  │  └──Puppy Linux (Q240116) •37
+│  │  ├──embedded Linux distribution (Q1199316) •13 ×2 ↑
+│  │  ├──Parabola GNU/Linux-libre (Q3308694) •21 ↑
+│  │  ├──Debris linux (Q3351552) •2
+│  │  ├──LNX-BBC (Q12032405) •1 ↑
+│  │  ├──FSF-endorsed operating systems (Q46371164)
+│  │  └──Android distribution (Q87993016) ×23 ↑
+│  ├──IBM AIX (Q269856) •33
+│  ├──Elive (Q930714) •18
+│  ├──shell script (Q959549) •18
+│  │  └──shebang (Q1411020) •19 ↑
+│  ├──gnuLinEx (Q1405638) •13
+│  ╞══shebang (Q1411020) •19 ↑ …
+│  ├──GNU variant (Q1475825) •6 ×2
+│  │  ├──CrunchBang Linux (Q11983) •20
+│  │  ├──blackPanther OS (Q804187) •2
+│  │  ╞══Trisquel (Q1588573) •31 ↑ …
+│  │  ╘══Parabola GNU/Linux-libre (Q3308694) •21 ↑ …
+│  ├──Augustux (Q2871730) •3
+│  ├──Càtix (Q8465350) •2
+│  ├──Nokia X (Q15814161) •9
+│  ├──OpenMandriva (Q15980209) •10
+│  ├──watchOS (Q18012472) •33 ×2
+│  ├──Redox (Q23665359) •10
+│  ├──OSMC (Q25429379) •2
+│  └──Exherbo (Q28718983) •1
+├──Macintosh operating systems (Q43627) •64 ×2
+│  ╞══macOS (Q14116) •100 ×19 ↑ …
+│  └──Classic Mac OS (Q13522376) •21 ×4
+│     ├──System Software 5 (Q3509118) •5
+│     ├──System 1 (Q7663614) •8
+│     ├──System 2 (Q9350444) •3
+│     ├──System 3 (Q9350446) •2
+│     └──System 4 (Q9350447) •2
+├──real-time operating system (Q213666) •37 ×24
+│  ├──eCos (Q285237) •12
+│  ├──FlexOS (Q2560413) •6
+│  ├──TI‐RTOS (Q7395272) •3
+│  └──CTRON (Q11194160) •1
+├──BIOS (Q226264) •69 ×2 ↑
+│  ├──IBM PC ROM BIOS (Q5906732) •1
+│  ├──ABIOS (Q10397513) •1
+│  └──Flash BIOS (Q13636504) •1
+├──network operating system (Q282080) •25 ×13
+├──Single address space operating system (Q290196) •3
+├──distributed operating system (Q588145) •11 ×11 ↑
+├──disk operating system (Q600659) •13 ×3
+│  └──DOS (Q170434) •60 ×9
+│     ├──FreeDOS (Q473751) •39
+│     ├──DOS/V (Q1049628) •7
+│     ├──ZDOS (Q10724012) •1
+│     └──Svarog386 (Q98545376)
+├──monolithic kernel (Q720353) •34 ↑
+├──mobile operating system (Q920890) •38 ×95 ↑
+│  ├──Symbian (Q483318) •66
+│  │  └──S60 (Q941283) •19
+│  ├──Windows Phone (Q4885200) •69
+│  │  ├──Windows Phone 8 (Q34825) •29
+│  │  ├──Windows Phone 7.x (Q1854343) •19
+│  │  ├──Windows Phone 8.1 (Q15282750) •22
+│  │  └──Windows 10 Mobile (Q18845397) •38
+│  ╘══Android distribution (Q87993016) ×23 ↑ …
+├──AmigaDOS (Q1053058) •6
+├──hypervisor (Q1077480) •28 ×33
+├──embedded operating system (Q1139923) •10 ×18
+│  ╘══embedded Linux distribution (Q1199316) •13 ×2 ↑ …
+├──ring (Q1198514) •18
+├──operating environment (Q2713600) •8 ×1 ↑
+├──live distribution (Q3030796) •2 ×1
+│  ├──Live CD (Q215552) •42 ×2
+│  │  ├──GIS Live DVD (Q5513518) •1
+│  │  ├──??? (Q15881236) •1
+│  │  └──GParted Live (Q21323922)
+│  ╘══LNX-BBC (Q12032405) •1 ↑ …
+├──Trusted operating system (Q3496028) •3
+├──security-focused operating system (Q3496042) •4 ×11
+├──operating system distribution (Q4162386) •1 ×7 ↑
+│  ╘══Linux distribution (Q131669) •62 ×530 ↑ …
+├──NewDos/80 (Q7005105) •2
+├──Object-oriented operating system (Q7075017) •2
+├──supercomputer operating system (Q7643164) •1 ×14
+├──Debian derivatives (Q12307966) •1
+├──??? (Q16632299) •1
+├──free operating system (Q20983788) ×45 ↑
+├──single-user operating system (Q28933701)
+├──multi-user operating system (Q28933703)
+├──multi-tasking operating system (Q28933706) ×1
+├──single-tasking operating system (Q28933708)
+├──library operating system (Q28933712)
+├──templated operating system (Q28933719)
+├──AmigaOS-like operating system (Q66823362) ×3
+└──exotic operating system (Q85299672) •1

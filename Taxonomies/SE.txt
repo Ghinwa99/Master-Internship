@@ -1,0 +1,50 @@
+software engineering (Q80993) •84 ×2 ↑
+├──component-based software engineering (Q609588) •16 ×3 ↑
+│  ├──plug-in (Q184148) •49 ×80 ↑↑
+│  │  ├──loadable kernel module (Q1739331) •20 ×1 ↑↑
+│  │  │  ├──NetWare Loadable Module (Q17042621) •1 ↑
+│  │  │  └──Linux kernel module (Q70589944) •2 ×2
+│  │  ├──BBS door (Q4835082) •1
+│  │  │  └──??? (Q4034678) •1 ↑
+│  │  ├──Peekko (Q10622204) •1
+│  │  └──Firefox plugin (Q51673934) ↑
+│  └──virtual keyboard (Q861170) •22 ×8 ↑
+├──software architecture (Q846636) •30 ×9 ↑
+│  ├──client-server (Q146813) •45 ×1 ↑
+│  │  └──server-based computing (Q2274116) •3
+│  ├──service oriented architecture (Q220644) •37 ×2
+│  │  └──microservices (Q18344624) •18 ↑
+│  ├──event-driven architecture (Q991296) •12
+│  ├──enterprise architecture (Q1048431) •24
+│  │  ├──Reference architecture (Q2136675) •3 ↑
+│  │  └──information technology architecture (Q6030887) •2
+│  │     ├──data architecture (Q638422) •9 ↑
+│  │     ├──Applications architecture (Q2193309) •4
+│  │     │  └──serverless computing (Q3958022) •12 ×3 ↑↑
+│  │     └──??? (Q2701751) •1
+│  ╞══Reference architecture (Q2136675) •3 ↑ …
+│  ├──Database-centric architecture (Q2860294) •2
+│  ├──browser-sever (Q11148310) •1
+│  └──Hexagonal architecture (software) (Q66403655) •5
+├──Computer-aided software engineering (Q868714) •23 ×1
+├──software reengineering (Q1515051) •5 ↑
+├──model-driven engineering (Q1941909) •12 ×1 ↑
+├──Software construction (Q3398377) •8
+├──cleanroom software engineering (Q4036278) •10
+├──application performance engineering (Q4781490) •1
+├──Experimental software engineering (Q5421170) •4
+├──forensic software engineering (Q5468729) •1 ↑
+├──search-based software engineering (Q7441615) •4
+├──service-oriented software engineering (Q7455646) •2
+├──software verification and validation (Q7921330) •9 ↑
+│  ├──Software verification (Q6504747) •7
+│  ├──Runtime error detection (Q7380127) •4
+│  └──independent software verification and validation (Q101405505)
+├──precision engineering (Q11604665) •4 ↑↑↑↑
+├──software update (Q15852209) •2 ×3
+│  ├──over-the-air programming (Q2088106) •12
+│  ├──flag day (Q5456662) •1
+│  ├──??? (Q10898483) •1
+│  └──auto update (Q105979055)
+├──research software engineering (Q48972887) •5
+└──information engineering (Q60596709) •1
